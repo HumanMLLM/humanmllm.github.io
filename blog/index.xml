@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on Human MLLM</title>
-    <link>http://30.220.88.158:1313/blog/</link>
+    <link>https://humanmllm.github.io/blog/</link>
     <description>Recent content in Blog on Human MLLM</description>
     <image>
-      <url>http://30.220.88.158:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://30.220.88.158:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://humanmllm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://humanmllm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:03 +0800</lastBuildDate><atom:link href="http://30.220.88.158:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:03 +0800</lastBuildDate><atom:link href="https://humanmllm.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding</title>
-      <link>http://30.220.88.158:1313/blog/llava-octopus/</link>
+      <link>https://humanmllm.github.io/blog/llava-octopus/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:03 +0800</pubDate>
       
-      <guid>http://30.220.88.158:1313/blog/llava-octopus/</guid>
+      <guid>https://humanmllm.github.io/blog/llava-octopus/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2501.05067&#34; class=&#34;btn external&#34; target=&#34;_blank&#34;&gt;PAPER&lt;/a&gt;
 &lt;a href=&#34;https://github.com/Jiaxing-star/LLaVA-Octopus&#34; class=&#34;btn external&#34; target=&#34;_blank&#34;&gt;CODE&lt;/a&gt;
 &lt;a href=&#34;https://github.com/Jiaxing-star/LLaVA-Octopus&#34; class=&#34;btn external&#34; target=&#34;_blank&#34;&gt;Checkpoints&lt;/a&gt;
