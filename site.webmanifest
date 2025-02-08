@@ -1,0 +1,8 @@
+{
+    "name": "Human MLLM",
+    "short_name": "Human MLLM",
+    
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

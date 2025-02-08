@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Human MLLM</title>
+    <link>http://30.220.88.158:1313/blog/</link>
+    <description>Recent content in Blog on Human MLLM</description>
+    <image>
+      <url>http://30.220.88.158:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://30.220.88.158:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:03 +0800</lastBuildDate><atom:link href="http://30.220.88.158:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding</title>
+      <link>http://30.220.88.158:1313/blog/llava-octopus/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:03 +0800</pubDate>
+      
+      <guid>http://30.220.88.158:1313/blog/llava-octopus/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2501.05067&#34; class=&#34;btn external&#34; target=&#34;_blank&#34;&gt;PAPER&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Jiaxing-star/LLaVA-Octopus&#34; class=&#34;btn external&#34; target=&#34;_blank&#34;&gt;CODE&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Jiaxing-star/LLaVA-Octopus&#34; class=&#34;btn external&#34; target=&#34;_blank&#34;&gt;Checkpoints&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Jiaxing-star/LLaVA-Octopus&#34; class=&#34;btn external&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;We present &lt;strong&gt;LLaVA-Octopus&lt;/strong&gt;, a novel video multimodal large language model. LLaVA-Octopus adaptively weights features from different visual projectors based on user instructions, enabling us to leverage the &lt;strong&gt;complementary strengths of each projector&lt;/strong&gt;. We observe that different visual projectors exhibit distinct characteristics when handling specific tasks. For instance, some projectors excel at capturing static details, while others are more effective at processing temporal information, and some are better suited for tasks requiring temporal coherence. By dynamically adjusting feature weights according to user instructions, LLaVA-Octopus dynamically selects and combines the most suitable features, significantly enhancing the model&amp;rsquo;s performance in multimodal tasks. LLaVA-Octopus achieves excellent performance across multiple benchmarks, especially in tasks such as &lt;strong&gt;multimodal understanding, visual question answering, and video understanding&lt;/strong&gt;, highlighting its broad application potential.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
